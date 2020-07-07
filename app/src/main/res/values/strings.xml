@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShaadiMatches</string>
+    <string name="action_settings">Settings</string>
+    <string name="decline">Invitation Declined</string>
+    <string name="accept">Accept</string>
+    <string name="decline_button">Decline</string>
+</resources>
